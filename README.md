@@ -203,6 +203,9 @@ TOTALYTD(
 * Develop targeted strategies for low-performing products and regions.
 * Use dashboard insights to improve forecasting and business planning.
 
+<img width="1221" height="357" alt="Ecommerce-Sales Dashboard Using DAX and Data Visualization" src="https://github.com/user-attachments/assets/c2e5c2e1-57ac-4fbf-8488-5c9448f4b30d" />
+
+
 ---
 
 # 🚀 How To Use
